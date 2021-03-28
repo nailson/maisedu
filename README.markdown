@@ -1,16 +1,16 @@
 Projeto eduBrasil
 =================
 
-DescriÁ„o
+Projeto e desenvolvimento de uma plataforma web que agregue dados educacionais de diversas fontes com o objetivo de auxiliar o trabalho dos auditores na busca de anomalias em indicadores de desempenho educacional nas cidades da Para√≠ba, Brasil, e tamb√©m para servir como observat√≥rio da sociedade civil.
 
 Equipe
 ======
 
 
-DiretÛrios
+Diret√≥rios
 ==========
 
-* src: cÛdigo para processamento e visualizaÁ„o;
+* src: c√≥digo para processamento e visualiza√ß√£o;
 * data: Dados originais;
-* docs: RelatÛrios e documentaÁ„o;
-* release: Versıes da visualizaÁ„o publicadas.
+* docs: Relat√≥rios e documenta√ß√£o;
+* release: Vers√µes da visualiza√ß√£o publicadas.
